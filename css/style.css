@@ -1,0 +1,14 @@
+*{
+    color:red
+}
+h1{
+ color:gold
+}
+h3{
+    color:aqua
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%
+}
